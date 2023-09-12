@@ -1,0 +1,3 @@
+this was added from feature-2 branch
+
+brought some changes to another-file.txt
